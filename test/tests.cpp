@@ -1,4 +1,4 @@
-/* Generated file, do not edit */
+
 
 #ifndef CXXTEST_RUNNING
 #define CXXTEST_RUNNING
